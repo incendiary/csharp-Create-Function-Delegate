@@ -1,0 +1,6 @@
+enable 64 bit and unsafe via:
+
+1 - select project in solution explorer (c# icon)
+2 - menu -> Project -> project name properties
+3 - click build
+4 - select allow unsafe code and deselect prefer 32 bit
